@@ -1,0 +1,19 @@
+{
+  "name": "intro_api",
+  "version": "0.0.1",
+  "description": "Consumir una API externa",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "api",
+    "atenea",
+    "backend"
+  ],
+  "author": "Leonardo Cuaran",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.0"
+  }
+}
